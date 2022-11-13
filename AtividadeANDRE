@@ -1,0 +1,11 @@
+package Casting;
+
+public class Conta {
+
+    public  int numero;
+    public Number real;
+    public int saldo;
+    public  String categoria;
+    public int conta;
+
+}
